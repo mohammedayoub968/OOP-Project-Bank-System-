@@ -1,0 +1,8 @@
+[2025-06-06 19:40:01] User ID: 4 | Action: deposit_to_credit | Status: success
+[2025-06-06 19:40:15] User ID: 4 | Action: deposit_to_wallet | Status: success
+[2025-06-06 19:40:38] User ID: 4 | Action: withdraw_from_credit | Status: success
+[2025-06-06 19:46:10] User ID: 4 | Action: wallet_to_credit | Status: success
+[2025-06-06 19:51:58] User ID: 6 | Action: withdraw_from_credit | Status: failed
+[2025-06-06 19:52:07] User ID: 6 | Action: wallet_to_credit | Status: failed
+[2025-06-06 19:52:14] User ID: 6 | Action: deposit_to_credit | Status: success
+[2025-06-06 19:52:26] User ID: 6 | Action: credit_to_wallet | Status: success
